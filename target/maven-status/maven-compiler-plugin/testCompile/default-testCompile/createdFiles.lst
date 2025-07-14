@@ -1,0 +1,4 @@
+br\com\mercadolivre\service\impl\ProductPurchaseServiceImplTest.class
+br\com\mercadolivre\service\impl\ProductDetailServiceImpTest.class
+br\com\mercadolivre\repository\ProductPurchaseRepositoryTest.class
+br\com\mercadolivre\repository\ProductRepositoryTest.class
