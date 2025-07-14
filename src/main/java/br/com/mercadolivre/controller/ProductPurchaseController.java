@@ -28,6 +28,7 @@ public class ProductPurchaseController {
 		} catch (Exception e) {
 			return ResponseEntity.badRequest().body("Estamos com indisponibilidade no sistema, favor tentar novamente mais tarde!");
 		}
+
         return ResponseEntity.ok("Compra salva com sucesso!");
     }
 }
